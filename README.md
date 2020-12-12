@@ -1,0 +1,2 @@
+# bak
+Bakman lazım
